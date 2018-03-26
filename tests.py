@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """tests.py contains a test for every back-end algorithm"""
 # pylint: disable=invalid-name
 
